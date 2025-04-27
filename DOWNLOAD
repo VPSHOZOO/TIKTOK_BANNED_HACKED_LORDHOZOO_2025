@@ -1,0 +1,16 @@
+e="echo -e " 
+clear
+$e " [ INSTALL NODE JS BROO 👰"
+read -p " enter kak lordhozoo "
+clear
+sudo apt-get install nodejs -y
+clear
+sudo apt-get install npm -y
+clear
+npm install axios
+clear
+npm install node-telegram-bot-api
+clear
+npm install fs
+clear
+node EXECUTOR_BY_LORDHOZOO_BANNED_TIKTOK_2025.js
